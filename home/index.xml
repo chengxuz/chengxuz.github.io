@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Chengxu Zhuang</title>
-    <link>http://web.stanford.edu/~chengxuz/home/</link>
+    <link>https://chengxuz.github.io/home/</link>
     <description>Recent content in Homes on Chengxu Zhuang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://web.stanford.edu/~chengxuz/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chengxuz.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~chengxuz/home/hero_carousel/</link>
+      <link>https://chengxuz.github.io/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/home/hero_carousel/</guid>
+      <guid>https://chengxuz.github.io/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~chengxuz/home/about/</link>
+      <link>https://chengxuz.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/home/about/</guid>
+      <guid>https://chengxuz.github.io/home/about/</guid>
       <description>Biography I am an ICoN Postdoctoral Fellow at MIT, primarily working with Ev Fedorenko and Jacob Andreas. Previously, I obtained my Ph.D. degree from Stanford, advised by Daniel Yamins. I am interested in both understanding brains and developing more effective AI models.</description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>http://web.stanford.edu/~chengxuz/home/publications/</link>
+      <link>https://chengxuz.github.io/home/publications/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/home/publications/</guid>
+      <guid>https://chengxuz.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~chengxuz/home/skills/</link>
+      <link>https://chengxuz.github.io/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/home/skills/</guid>
+      <guid>https://chengxuz.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://web.stanford.edu/~chengxuz/home/teaching/</link>
+      <link>https://chengxuz.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/home/teaching/</guid>
+      <guid>https://chengxuz.github.io/home/teaching/</guid>
       <description>I was a teaching assistant for the following courses at Stanford:
  PSYCH252: Statistical Methods for Behavioral and Social Sciences, Winter 2021 PSYCH251: Experimental Methods, Autumn 2019 PSYCH249 / CS375: Large-Scale Neural Network Models for Neuroscience, Autumn 2018 PSYCH253: High-Dimensional Methods for Behavioral and Neural Data, Spring 2018, Spring 2019, Spring 2021  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://web.stanford.edu/~chengxuz/home/contact/</link>
+      <link>https://chengxuz.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/home/contact/</guid>
+      <guid>https://chengxuz.github.io/home/contact/</guid>
       <description></description>
     </item>
     

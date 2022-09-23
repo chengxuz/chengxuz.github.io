@@ -2,146 +2,146 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chengxu Zhuang on Chengxu Zhuang</title>
-    <link>http://web.stanford.edu/~chengxuz/</link>
+    <link>https://chengxuz.github.io/</link>
     <description>Recent content in Chengxu Zhuang on Chengxu Zhuang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/~chengxuz/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Selected Publications</title>
-      <link>http://web.stanford.edu/~chengxuz/publications_selected/</link>
+      <link>https://chengxuz.github.io/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publications_selected/</guid>
+      <guid>https://chengxuz.github.io/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>http://web.stanford.edu/~chengxuz/talks_selected/</link>
+      <link>https://chengxuz.github.io/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/talks_selected/</guid>
+      <guid>https://chengxuz.github.io/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://web.stanford.edu/~chengxuz/talks/</link>
+      <link>https://chengxuz.github.io/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/talks/</guid>
+      <guid>https://chengxuz.github.io/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://web.stanford.edu/~chengxuz/posts/</link>
+      <link>https://chengxuz.github.io/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/posts/</guid>
+      <guid>https://chengxuz.github.io/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://web.stanford.edu/~chengxuz/projects/</link>
+      <link>https://chengxuz.github.io/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/projects/</guid>
+      <guid>https://chengxuz.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>http://web.stanford.edu/~chengxuz/tags/</link>
+      <link>https://chengxuz.github.io/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/tags/</guid>
+      <guid>https://chengxuz.github.io/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>http://web.stanford.edu/~chengxuz/search/</link>
+      <link>https://chengxuz.github.io/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/search/</guid>
+      <guid>https://chengxuz.github.io/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning?</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/short_long_bms/</link>
+      <link>https://chengxuz.github.io/publication/short_long_bms/</link>
       <pubDate>Fri, 16 Sep 2022 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/short_long_bms/</guid>
+      <guid>https://chengxuz.github.io/publication/short_long_bms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional Negative Sampling for Contrastive Learning of Visual Representations.</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/contrast_info/</link>
+      <link>https://chengxuz.github.io/publication/contrast_info/</link>
       <pubDate>Fri, 19 Mar 2021 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/contrast_info/</guid>
+      <guid>https://chengxuz.github.io/publication/contrast_info/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised neural network models of the ventral visual stream</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/unsup_vvs/</link>
+      <link>https://chengxuz.github.io/publication/unsup_vvs/</link>
       <pubDate>Tue, 19 Jan 2021 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/unsup_vvs/</guid>
+      <guid>https://chengxuz.github.io/publication/unsup_vvs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Learning from Video with Deep Neural Embeddings</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/vie/</link>
+      <link>https://chengxuz.github.io/publication/vie/</link>
       <pubDate>Fri, 31 Jan 2020 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/vie/</guid>
+      <guid>https://chengxuz.github.io/publication/vie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Aggregation for Unsupervised Learning of Visual Embeddings</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/local_aggregation/</link>
+      <link>https://chengxuz.github.io/publication/local_aggregation/</link>
       <pubDate>Thu, 31 Jan 2019 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/local_aggregation/</guid>
+      <guid>https://chengxuz.github.io/publication/local_aggregation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible Neural Representation for Physics Prediction</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/physics/</link>
+      <link>https://chengxuz.github.io/publication/physics/</link>
       <pubDate>Thu, 10 May 2018 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/physics/</guid>
+      <guid>https://chengxuz.github.io/publication/physics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward Goal-Driven Neural Network Models for the Rodent Whisker-Trigeminal System</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/whisker/</link>
+      <link>https://chengxuz.github.io/publication/whisker/</link>
       <pubDate>Sun, 10 Dec 2017 20:51:21 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/whisker/</guid>
+      <guid>https://chengxuz.github.io/publication/whisker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning Predicts Correlation between a Functional Signature of Higher Visual Areas and Sparse Firing of Neurons</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/signature/</link>
+      <link>https://chengxuz.github.io/publication/signature/</link>
       <pubDate>Tue, 17 Oct 2017 21:51:49 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/signature/</guid>
+      <guid>https://chengxuz.github.io/publication/signature/</guid>
       <description></description>
     </item>
     

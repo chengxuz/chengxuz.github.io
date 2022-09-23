@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Chengxu Zhuang</title>
-    <link>http://web.stanford.edu/~chengxuz/publication_types/1/</link>
+    <link>https://chengxuz.github.io/publication_types/1/</link>
     <description>Recent content in 1 on Chengxu Zhuang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 16 Sep 2022 21:17:06 -0700</lastBuildDate>
     
-	<atom:link href="http://web.stanford.edu/~chengxuz/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chengxuz.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning?</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/short_long_bms/</link>
+      <link>https://chengxuz.github.io/publication/short_long_bms/</link>
       <pubDate>Fri, 16 Sep 2022 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/short_long_bms/</guid>
+      <guid>https://chengxuz.github.io/publication/short_long_bms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional Negative Sampling for Contrastive Learning of Visual Representations.</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/contrast_info/</link>
+      <link>https://chengxuz.github.io/publication/contrast_info/</link>
       <pubDate>Fri, 19 Mar 2021 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/contrast_info/</guid>
+      <guid>https://chengxuz.github.io/publication/contrast_info/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised neural network models of the ventral visual stream</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/unsup_vvs/</link>
+      <link>https://chengxuz.github.io/publication/unsup_vvs/</link>
       <pubDate>Tue, 19 Jan 2021 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/unsup_vvs/</guid>
+      <guid>https://chengxuz.github.io/publication/unsup_vvs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Learning from Video with Deep Neural Embeddings</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/vie/</link>
+      <link>https://chengxuz.github.io/publication/vie/</link>
       <pubDate>Fri, 31 Jan 2020 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/vie/</guid>
+      <guid>https://chengxuz.github.io/publication/vie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Aggregation for Unsupervised Learning of Visual Embeddings</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/local_aggregation/</link>
+      <link>https://chengxuz.github.io/publication/local_aggregation/</link>
       <pubDate>Thu, 31 Jan 2019 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/local_aggregation/</guid>
+      <guid>https://chengxuz.github.io/publication/local_aggregation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible Neural Representation for Physics Prediction</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/physics/</link>
+      <link>https://chengxuz.github.io/publication/physics/</link>
       <pubDate>Thu, 10 May 2018 21:17:06 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/physics/</guid>
+      <guid>https://chengxuz.github.io/publication/physics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward Goal-Driven Neural Network Models for the Rodent Whisker-Trigeminal System</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/whisker/</link>
+      <link>https://chengxuz.github.io/publication/whisker/</link>
       <pubDate>Sun, 10 Dec 2017 20:51:21 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/whisker/</guid>
+      <guid>https://chengxuz.github.io/publication/whisker/</guid>
       <description></description>
     </item>
     

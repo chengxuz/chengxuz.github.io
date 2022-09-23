@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Chengxu Zhuang</title>
-    <link>http://web.stanford.edu/~chengxuz/publication_types/2/</link>
+    <link>https://chengxuz.github.io/publication_types/2/</link>
     <description>Recent content in 2 on Chengxu Zhuang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 17 Oct 2017 21:51:49 -0700</lastBuildDate>
     
-	<atom:link href="http://web.stanford.edu/~chengxuz/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chengxuz.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Learning Predicts Correlation between a Functional Signature of Higher Visual Areas and Sparse Firing of Neurons</title>
-      <link>http://web.stanford.edu/~chengxuz/publication/signature/</link>
+      <link>https://chengxuz.github.io/publication/signature/</link>
       <pubDate>Tue, 17 Oct 2017 21:51:49 -0700</pubDate>
       
-      <guid>http://web.stanford.edu/~chengxuz/publication/signature/</guid>
+      <guid>https://chengxuz.github.io/publication/signature/</guid>
       <description></description>
     </item>
     
