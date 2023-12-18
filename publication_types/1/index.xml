@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 21:17:06 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2023 21:17:06 -0700</lastBuildDate>
     
 	<atom:link href="https://chengxuz.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The BabyView camera: Designing a new head-mounted camera to capture children’s early social and visual environments</title>
+      <link>https://chengxuz.github.io/publication/babyview/</link>
+      <pubDate>Wed, 25 Oct 2023 21:17:06 -0700</pubDate>
+      
+      <guid>https://chengxuz.github.io/publication/babyview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Grounding Helps Learn Word Meanings in Low-Data Regimes</title>
+      <link>https://chengxuz.github.io/publication/visual_grounding/</link>
+      <pubDate>Wed, 25 Oct 2023 21:17:06 -0700</pubDate>
+      
+      <guid>https://chengxuz.github.io/publication/visual_grounding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning?</title>
