@@ -13,20 +13,29 @@
     
     
     <item>
-      <title>The BabyView camera: Designing a new head-mounted camera to capture children’s early social and visual environments</title>
-      <link>https://chengxuz.github.io/publication/babyview/</link>
-      <pubDate>Wed, 25 Oct 2023 21:17:06 -0700</pubDate>
+      <title>Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling</title>
+      <link>https://chengxuz.github.io/publication/lexi_contrastive/</link>
+      <pubDate>Thu, 15 Feb 2024 21:17:06 -0700</pubDate>
       
-      <guid>https://chengxuz.github.io/publication/babyview/</guid>
+      <guid>https://chengxuz.github.io/publication/lexi_contrastive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Grounding Helps Learn Word Meanings in Low-Data Regimes</title>
       <link>https://chengxuz.github.io/publication/visual_grounding/</link>
-      <pubDate>Wed, 25 Oct 2023 21:17:06 -0700</pubDate>
+      <pubDate>Thu, 25 Jan 2024 21:17:06 -0700</pubDate>
       
       <guid>https://chengxuz.github.io/publication/visual_grounding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The BabyView camera: Designing a new head-mounted camera to capture children’s early social and visual environments</title>
+      <link>https://chengxuz.github.io/publication/babyview/</link>
+      <pubDate>Wed, 25 Oct 2023 21:17:06 -0700</pubDate>
+      
+      <guid>https://chengxuz.github.io/publication/babyview/</guid>
       <description></description>
     </item>
     
