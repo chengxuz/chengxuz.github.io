@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://chengxuz.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://chengxuz.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>https://chengxuz.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,16 +24,16 @@
     <item>
       <title></title>
       <link>https://chengxuz.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://chengxuz.github.io/home/about/</guid>
-      <description>Biography I am an ICoN Postdoctoral Fellow at MIT, primarily working with Ev Fedorenko and Jacob Andreas. Previously, I obtained my Ph.D. degree from Stanford, advised by Daniel Yamins. I am interested in both understanding brains and developing more effective AI models.</description>
+      <description>Biography I am a research scientist at OpenAI. I was previously an ICoN Postdoctoral Fellow at MIT, working with Ev Fedorenko and Jacob Andreas. Previously, I obtained my Ph.D. degree from Stanford, advised by Daniel Yamins. I am interested in both understanding brains and developing more effective AI models.</description>
     </item>
     
     <item>
       <title>Recent Publications</title>
       <link>https://chengxuz.github.io/home/publications/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 -0700</pubDate>
       
       <guid>https://chengxuz.github.io/home/publications/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title></title>
       <link>https://chengxuz.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://chengxuz.github.io/home/skills/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Teaching</title>
       <link>https://chengxuz.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://chengxuz.github.io/home/teaching/</guid>
       <description>I was a teaching assistant for the following courses at Stanford:
@@ -61,7 +61,7 @@
     <item>
       <title>Contact</title>
       <link>https://chengxuz.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://chengxuz.github.io/home/contact/</guid>
       <description></description>
